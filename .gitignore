@@ -1,0 +1,26 @@
+# Angular build artifacts
+/dist/
+/node_modules/
+/.node_modules/
+/*.js
+/*.js.map
+/*.css
+/*.css.map
+
+# IDE and editor files
+.vscode/
+.idea/
+*.sublime-*
+*.swo
+*.swp
+*.sublime-workspace
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+
+# Configuration files with sensitive information
+.env
+.env.*
